@@ -1,1 +1,1 @@
-# vpc-module
+# golden-vpc-module
